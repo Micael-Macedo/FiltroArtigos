@@ -1,0 +1,15 @@
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\bin\Debug\net6.0\AtividadeLambida.exe
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\bin\Debug\net6.0\AtividadeLambida.deps.json
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\bin\Debug\net6.0\AtividadeLambida.runtimeconfig.json
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\bin\Debug\net6.0\AtividadeLambida.dll
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\bin\Debug\net6.0\AtividadeLambida.pdb
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.csproj.AssemblyReference.cache
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.AssemblyInfoInputs.cache
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.AssemblyInfo.cs
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.csproj.CoreCompileInputs.cache
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.dll
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\refint\AtividadeLambida.dll
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.pdb
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\AtividadeLambida.genruntimeconfig.cache
+C:\Users\alunovdi\Documents\C#\AtividadeLambida\obj\Debug\net6.0\ref\AtividadeLambida.dll
